@@ -1,2 +1,2 @@
 # test-repository
-demo
+this is a demo.
